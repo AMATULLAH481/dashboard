@@ -1,2 +1,2 @@
 # dashboard cloning
-View site: 
+View site: https://amatullah481.github.io/dashboard/
